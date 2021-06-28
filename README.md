@@ -1,2 +1,2 @@
-# Snakegame
-A simple Snake game on C++
+# Snake-Game
+ Snake_Game using Pygame
